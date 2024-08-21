@@ -3,7 +3,7 @@ python -m venv venv
 venv\Scripts\activate.bat # Windows!
 
 cd \Your_directory\Speech2txt
-streamlit run app.py![image](https://github.com/user-attachments/assets/bacd7a7d-b0b3-4019-9897-0bef4b103013)
+streamlit run app.py
 
 Grok API key
 gsk_*************
