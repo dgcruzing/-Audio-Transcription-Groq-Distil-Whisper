@@ -3,6 +3,7 @@
 ### Create a new directory for your project (optional)
 
 mkdir streamlit-transcription-app
+
 cd streamlit-transcription-app
 
 ### Create a virtual environment
